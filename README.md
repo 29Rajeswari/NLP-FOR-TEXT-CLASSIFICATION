@@ -5,11 +5,13 @@ NLP project to classify SMS messages as spam or ham using TF-IDF and Multinomial
 •	Contains 5,574 SMS messages labelled as:
 o	ham (legitimate message)
 o	spam (advertisement, fraud, etc.)
+
 # Processing Steps
 1.	Text Cleaning: Lowercasing, punctuation removal, and stopword removal.
 2.	Vectorization: TF-IDF (Term Frequency–Inverse Document Frequency).
 3.	Model Used: Logistic Regression.
 4.	Train/Test Split: 80% training, 20% testing.
+
 # Achieved Performance (typical results from running this notebook)
 •	Accuracy: ~97–98%
 •	Precision (Spam class): ~94–96%
