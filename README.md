@@ -124,9 +124,9 @@ def clean_text(text):
 
 | Message | Prediction |
 |---|---|
-| "Congratulations! You've won a $1000 gift card. Claim now!" | ➡ Ham ⚠️ |
+| "Congratulations! You've won a $1000 gift card. Claim now!" | ➡ Spam ⚠️ |
 | "Are you coming to the meeting today?" | ➡ Ham ✅ |
-| "Urgent: Your account is suspended. Click to reactivate." | ➡ Ham ⚠️ |
+| "Urgent: Your account is suspended. Click to reactivate." | ➡ Spam ⚠️ |
 
 > Note: The model predicted all 3 as Ham — spam-like phishing messages can sometimes bypass simple TF-IDF models. Adding more training data or using deep learning (LSTM/BERT) would improve detection of borderline cases.
 
