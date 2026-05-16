@@ -19,13 +19,13 @@ A Natural Language Processing (NLP) project that classifies SMS messages as **Ha
 ## 📸 Output Visualizations
 
 ### Distribution of Ham vs Spam
-![Ham vs Spam Distribution](https://raw.githubusercontent.com/29Rajeswari/YOUR_REPO_NAME/main/ham_vs_spam.png)
+![Ham vs Spam Distribution](https://github.com/29Rajeswari/NLP-FOR-TEXT-CLASSIFICATION/blob/main/ham_vs_spam.png))
 
 ### Confusion Matrix & ROC Curve
-![Confusion Matrix and ROC Curve](https://raw.githubusercontent.com/29Rajeswari/YOUR_REPO_NAME/main/confusion_roc.png)
+![Confusion Matrix and ROC Curve](https://github.com/29Rajeswari/NLP-FOR-TEXT-CLASSIFICATION/blob/main/confusion_roc.png))
 
 ### Spam & Ham WordClouds
-![WordClouds](https://raw.githubusercontent.com/29Rajeswari/YOUR_REPO_NAME/main/wordclouds.png)
+![WordClouds](https://github.com/29Rajeswari/NLP-FOR-TEXT-CLASSIFICATION/blob/main/wordclouds.png))
 
 ---
 
